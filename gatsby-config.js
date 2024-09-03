@@ -14,7 +14,7 @@ module.exports = {
       name: `Kyle Mathews`,
       summary: `cosas que pasan en javascript.`,
     },
-    description: `un blog que me gustaria hacer.`,
+    description: `un blog que me gustaria hacer ya .`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
