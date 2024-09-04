@@ -12,9 +12,9 @@ module.exports = {
     title: `El blog de Kyle`,
     author: {
       name: `Kyle Mathews`,
-      summary: `cosas que pasan en javascript.`,
+      summary: `Fundador de gatsbyjs.`,
     },
-    description: `un blog que me gustaria hacer ya .`,
+    description: `Un blog que gusta hacer ya y donde hay cosas que pasan en javascript.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,

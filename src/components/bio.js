@@ -39,15 +39,15 @@ const Bio = () => {
         src="../images/profile-pic.png"
         width={50}
         height={50}
-        quality={95}
+        quality={90}
         alt="Profile picture"
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Escrito por <strong>{author.name}</strong>. {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+            Seguir en Twitter
           </a>
         </p>
       )}
