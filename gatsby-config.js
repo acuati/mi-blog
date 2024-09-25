@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: `/abdelkbirbenali/patrimonionacional`,
   siteMetadata: {
     title: `El blog de Kyle`,
     author: {
